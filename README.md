@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=220&section=header&text=Maheswari%20Polisetty&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Web%20Developer%20|%20Python%20&%20Django&descAlignY=55"/>
+</p>
 <h1 align="center">Hi 👋, I'm Maheswari Polisetty</h1>
 
 <h3 align="center">Junior Web Developer | Python & Django Learner</h3>
@@ -42,15 +45,11 @@ Passionate about Python, Django and Web Development ❤️
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MahiPolisetty&show_icons=true&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=MahiPolisetty&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MahiPolisetty&theme=tokyonight&row=1&column=6"/>
-</p>
+
 
 ## 🔥 GitHub Streak
 
@@ -65,9 +64,7 @@ Passionate about Python, Django and Web Development ❤️
 ## 💻 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahiPolisetty&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahiPolisetty&layout=compact&theme=tokyonight" />
 </p>
 
 ---
