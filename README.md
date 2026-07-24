@@ -2,42 +2,74 @@
 
 <h3 align="center">Junior Web Developer | Python & Django Learner</h3>
 
+<p align="center">
+Passionate about Python, Django and Web Development ❤️
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
 - 🌱 Currently learning **Python & Django**
 - 💻 Interested in Full Stack Web Development
-- 🚀 Building mini projects to improve my skills
+- 🚀 Building projects to improve my skills
 - 🎯 Goal: Become a Full Stack Python Developer
 
 ---
 
-## 🛠️ Skills
+## 🚀 Tech Stack
 
-- Python
-- Django
-- HTML5
-- CSS3
-- JavaScript
-- SQL
-- Git
-- GitHub
-- VS Code
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode"/>
+
+</p>
 
 ---
 
-## 📂 Current Projects
+## 📂 Featured Projects
 
-- Web Development Mini Project
-- Python Practice Programs
-- Django Practice
+- 🌱 Vasavi Seeds Website
+- 🐍 Python Programs
+- 🌐 Django Mini Projects
+- 💾 SQL Practice
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: (Add later)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MahiPolisetty&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MahiPolisetty&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahiPolisetty&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: *(Add your email here)*
+
+💼 LinkedIn: *(Add your LinkedIn profile later)*
 
 ⭐ Thanks for visiting my profile!
