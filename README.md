@@ -47,6 +47,7 @@ Passionate about Python, Django and Web Development ❤️
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahiPolisetty&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
@@ -74,7 +75,7 @@ Passionate about Python, Django and Web Development ❤️
 ## 📫 Connect With Me
 
 - 📧 Email: **mahipolisetty2015@gmail.com**
-- 💼 LinkedIn: *(Add your LinkedIn profile here later)*
+- 💼 LinkedIn: _(Add your LinkedIn profile here later)_
 
 ---
 
