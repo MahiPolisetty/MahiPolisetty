@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Maheswari Polisetty</h1>
 
 <h3 align="center">
-Python & Django Learner | Learning Web Development 🚀
+Python & Django Learner | Learning  Web Development 🚀
 </h3>
 
 <p align="center">
