@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maheswari Polisetty</h1>
 
 <h3 align="center">Junior Web Developer | Python & Django Learner</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Learner;Web+Development+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 <p align="center">
 Passionate about Python, Django and Web Development ❤️
@@ -45,6 +48,9 @@ Passionate about Python, Django and Web Development ❤️
 </p>
 
 ---
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MahiPolisetty&theme=tokyonight&row=1&column=6"/>
+</p>
 
 ## 🔥 GitHub Streak
 
@@ -73,3 +79,9 @@ Passionate about Python, Django and Web Development ❤️
 💼 LinkedIn: *(Add your LinkedIn profile later)*
 
 ⭐ Thanks for visiting my profile!
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MahiPolisetty&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahiPolisetty&theme=tokyo-night"/>
+</p>
