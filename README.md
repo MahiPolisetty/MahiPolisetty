@@ -68,7 +68,7 @@ Passionate about Python, Django and Web Development ❤️
 
 ## 📫 Connect With Me
 
-📧 Email: *(Add your email here)*
+📧 Email: mahipolisetty2015@gmail.com
 
 💼 LinkedIn: *(Add your LinkedIn profile later)*
 
