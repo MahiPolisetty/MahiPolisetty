@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Maheswari Polisetty</h1>
 
-<!--
-**MahiPolisetty/MahiPolisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Junior Web Developer | Python & Django Learner</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🌱 Currently learning **Python & Django**
+- 💻 Interested in Full Stack Web Development
+- 🚀 Building mini projects to improve my skills
+- 🎯 Goal: Become a Full Stack Python Developer
+
+---
+
+## 🛠️ Skills
+
+- Python
+- Django
+- HTML5
+- CSS3
+- JavaScript
+- SQL
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Current Projects
+
+- Web Development Mini Project
+- Python Practice Programs
+- Django Practice
+
+---
+
+## 📫 Connect
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: (Add later)
+
+⭐ Thanks for visiting my profile!
