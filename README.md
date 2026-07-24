@@ -1,11 +1,15 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=220&section=header&text=Maheswari%20Polisetty&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Web%20Developer%20|%20Python%20&%20Django&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=220&section=header&text=Maheswari%20Polisetty&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%26%20Django%20Learner%20|%20Learning%20Web%20Development&descAlignY=58"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Maheswari Polisetty</h1>
 
-<h3 align="center">Python & Django Learner | Learning Web Development 🚀 </h3>
+<h3 align="center">
+Python & Django Learner | Learning Web Development 🚀
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Learner;Web+Development+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Learner;Web+Development+Enthusiast;Always+Learning+New+Things✨"/>
 </p>
 
 <p align="center">
@@ -16,10 +20,10 @@ Passionate about Python, Django and Web Development ❤️
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning **Python & Django**
-- 💻 Interested in Full Stack Web Development
+- 🌱 Currently learning **Python, Django & Web Development**
+- 💻 Interested in **Full Stack Web Development**
 - 🚀 Building projects to improve my skills
-- 🎯 Goal: Become a Full Stack Python Developer
+- 🎯 Goal: Become a **Full Stack Python Developer**
 
 ---
 
@@ -38,18 +42,19 @@ Passionate about Python, Django and Web Development ❤️
 - 🌱 Vasavi Seeds Website
 - 🐍 Python Programs
 - 🌐 Django Mini Projects
-- 💾 SQL Practice
+- 🗄 SQL Practice
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahiPolisetty&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=MahiPolisetty&show_icons=true&theme=tokyonight"/>
+
 </p>
 
 ---
-
 
 ## 🔥 GitHub Streak
 
@@ -64,21 +69,26 @@ Passionate about Python, Django and Web Development ❤️
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahiPolisetty&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahiPolisetty&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: mahipolisetty2015@gmail.com
+- 📧 Email: **mahipolisetty2015@gmail.com**
+- 💼 LinkedIn: *(Add your LinkedIn profile here later)*
 
-💼 LinkedIn: *(Add your LinkedIn profile later)*
+---
 
-⭐ Thanks for visiting my profile!
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MahiPolisetty&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahiPolisetty&theme=tokyonight"/>
+
 </p>
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahiPolisetty&theme=tokyo-night"/>
+⭐ Thanks for visiting my profile!
 </p>
