@@ -27,26 +27,12 @@ Passionate about Python, Django and Web Development ❤️
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode"/>
-
-</p>
-
----
-
 ## 📂 Featured Projects
 
 - 🌱 Vasavi Seeds Website
 - 🐍 Python Programs
 - 🌐 Django Mini Projects
 - 🗄 SQL Practice
-
----
-
-
 
 ---
 
@@ -60,16 +46,12 @@ Passionate about Python, Django and Web Development ❤️
 
 ---
 
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: **mahipolisetty2015@gmail.com**
 - 💼 LinkedIn: _(Add your LinkedIn profile here later)_
 
 ---
-
 
 
 <p align="center">
