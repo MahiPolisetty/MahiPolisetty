@@ -60,11 +60,6 @@ Passionate about Python, Django and Web Development ❤️
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahiPolisetty&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 ---
 
@@ -75,11 +70,7 @@ Passionate about Python, Django and Web Development ❤️
 
 ---
 
-<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahiPolisetty&theme=tokyonight"/>
-
-</p>
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
